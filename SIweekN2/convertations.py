@@ -1,0 +1,21 @@
+import math
+#t1
+print(float("8.8"))
+#t2
+t2=8.8
+print(int(t2))
+#t3
+t3="8.8"
+print(int(float(t3)))
+#t4
+t4=8.8
+print(str(t4))
+#t5
+t5=8
+print(str(t5))
+#t6
+t6=8
+print(float(t6))
+#t7
+t7=8
+print(bool(t7))
